@@ -3,6 +3,3 @@ def hello():
 	+ "Espero solificar conhecimentos prévios de POO e desenvolver assuntos que esqueci com o tempo, além de aprender assuntos novos." 
 	
 	#escreva aqui a sua apresentação - nome, idade, hobbies, experiência prévia de programação, e o que você espera desta disciplina
-
-
-print(hello())
