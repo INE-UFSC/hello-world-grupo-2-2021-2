@@ -1,0 +1,2 @@
+def hello():
+	return "Eae, sou o Rafael Vargas, tenho 20 anos, depois da faculdade unico hobbie que mantenho é jogar e assistir CS, o resto é só ficar estudando e respirando programação, nas ultimas semanas comecei a fazer umas APIs em NodeJS e FrontEnd com React, nessa disciplina espero estudar profundamente POO pois é muito importante na nossa área" 
